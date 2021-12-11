@@ -112,7 +112,7 @@ elif c.lower() == 'l':
 ```
  
  ### Output Melihat Data
-![Gambar3](screenshots/ss4.jpg)
+![Gambar3](screenshots/ss5.jpg)
 
 - Untuk mengubah data menggunakan 
 ```py
@@ -131,7 +131,7 @@ elif c.lower() == 'u':
 ```
 
 ### Output Ubah Data
-![Gambar4](screenshots/ss5.jpg)
+![Gambar4](screenshots/ss4.jpg)
 
 - Untuk menghapus data menggunakan
 ```py
